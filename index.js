@@ -12,27 +12,44 @@ var categories = require('./data/categories.json');
 var config = require('./data/config.json');
 var products = require('./data/products.json');
 
+function setId(obj) {
+  obj._id = new ObjectID(obj.id);
+  delete obj.id;
+}
+
 MongoClient.connect(program.server, function(err, client) {
   console.log('Connected successfully to server');
 
   const db = client.db(program.collection);
 
+  // CATEGORIES
   categories.forEach(cat => {
-    cat._id = new ObjectID(cat.id);
-    delete cat.id;
+    setId(cat);
+    if (cat.options) {
+      cat.options.forEach(setId);
+    }
+    if (cat.specs) {
+      cat.specs.forEach(spec => {
+        setId(spec);
+        spec.specOptions.forEach(setId);
+      });
+    }
+
     db.collection('categories').insert(cat);
   });
   console.log('Wrote categories');
 
+  // PRODUCTS
   products.forEach(prod => {
-    prod._id = new ObjectID(prod.id);
-    delete prod.id;
+    setId(prod);
     db.collection('products').insert(prod);
   });
   console.log('Wrote products');
 
+
+  // CONFIG
   db.collection('config').insert(config);
 
-  console.log('Done');
+  console.log('Finishing up');
   client.close();
 });
