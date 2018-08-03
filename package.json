@@ -1,0 +1,23 @@
+{
+  "name": "stockoma-mongo-seed",
+  "version": "1.0.0",
+  "description": "Create mongo db docker instance and fill with some data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/be-pongit/Stockoma-mongo-seed.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/be-pongit/Stockoma-mongo-seed/issues"
+  },
+  "homepage": "https://github.com/be-pongit/Stockoma-mongo-seed#readme",
+  "dependencies": {
+    "commander": "2.16.0",
+    "mongodb": "3.1.1"
+  }
+}

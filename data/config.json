@@ -1,0 +1,21 @@
+{
+  "acceptBancontactFrom": 15.0,
+  "companyNumber": "BE0420046028",
+  "contact": {
+    "address1": "Brusselsesteenweg 339",
+    "address2": "1730 Kobbegem (Asse)",
+    "email": "info@stockoma.be",
+    "telephone": "02 452 51 38",
+    "telephoneLink": "+3224525138"
+  },
+  "ga": "UA631477331",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/stockoma",
+    "facebookAppId": "1842472936051354",
+    "facebookPostLink": "https://www.facebook.com/stockoma/photos/a.855618611192077.1073741829.844539068966698/1825483010872294/?type=3&theater",
+    "googlePlus": "https://plus.google.com/+AmerikaanseStockStockam%C3%A9ricainStockomaKobbegem",
+    "linkedIn": "https://www.linkedin.com/company/stockomastockamericain",
+    "twitter": "https://twitter.com/stockoma_americ"
+  },
+  "weaponLicenseNumber": "2/21/13/0029"
+}
