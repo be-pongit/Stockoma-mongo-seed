@@ -1,0 +1,2005 @@
+[
+    {
+        "id": "5a2ae6a46a0de608c87c74d4",
+        "mainCategory": false,
+        "name": {
+            "fr": "Pantalons",
+            "nl": "Broeken",
+            "en": "Pants"
+        },
+        "oldMySqlId": 18
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74d5",
+        "mainCategory": false,
+        "name": {
+            "fr": "Shirts",
+            "nl": "Shirts",
+            "en": "Shirts"
+        },
+        "oldMySqlId": 19
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74d6",
+        "mainCategory": false,
+        "name": {
+            "fr": "Gants",
+            "nl": "Handschoenen",
+            "en": "Gloves"
+        },
+        "oldMySqlId": 27
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74d7",
+        "mainCategory": false,
+        "name": {
+            "fr": "T-shirt",
+            "nl": "T-shirt",
+            "en": "T-shirt"
+        },
+        "oldMySqlId": 42
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74d8",
+        "mainCategory": false,
+        "name": {
+            "fr": "Shorts",
+            "nl": "Shorts",
+            "en": "Shorts"
+        },
+        "oldMySqlId": 46
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74d9",
+        "mainCategory": false,
+        "name": {
+            "fr": "Vetements enfant",
+            "nl": "Kinderkledij",
+            "en": "Children Clothes"
+        },
+        "oldMySqlId": 61
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74da",
+        "mainCategory": false,
+        "name": {
+            "fr": "Vêtements de pluie",
+            "nl": "Regenkledij",
+            "en": "Rain Garments"
+        },
+        "oldMySqlId": 62
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74db",
+        "mainCategory": false,
+        "name": {
+            "fr": "Pulls",
+            "nl": "Pulls",
+            "en": "Sweaters"
+        },
+        "oldMySqlId": 71
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74dc",
+        "mainCategory": false,
+        "name": {
+            "fr": "Chausettes",
+            "nl": "Kousen",
+            "en": "Socks"
+        },
+        "oldMySqlId": 76
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74dd",
+        "mainCategory": false,
+        "name": {
+            "fr": "Manteaux / Vestes",
+            "nl": "Vesten",
+            "en": "Vests"
+        },
+        "oldMySqlId": 93
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74de",
+        "mainCategory": false,
+        "name": {
+            "fr": "Ghillie suits",
+            "nl": "Ghillie suits",
+            "en": "Ghillie Suits"
+        },
+        "oldMySqlId": 100
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74df",
+        "mainCategory": false,
+        "name": {
+            "fr": "Ceintures",
+            "nl": "Riemen",
+            "en": "Belts"
+        },
+        "oldMySqlId": 102
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e0",
+        "mainCategory": false,
+        "name": {
+            "fr": "Foulard",
+            "nl": "Sjaals",
+            "en": "Scarfs"
+        },
+        "oldMySqlId": 120
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e1",
+        "mainCategory": false,
+        "name": {
+            "fr": "Gilet Tactique",
+            "nl": "Tacticalvest",
+            "en": "Plate carriers"
+        },
+        "oldMySqlId": 121
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e2",
+        "mainCategory": false,
+        "name": {
+            "fr": "Bodywarmer",
+            "nl": "Bodywarmer",
+            "en": "Body Warmer"
+        },
+        "oldMySqlId": 133
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e4",
+        "mainCategory": false,
+        "name": {
+            "fr": "Vêtements de chasse",
+            "nl": "Jachtkledij",
+            "en": "Hunting Garments"
+        },
+        "oldMySqlId": 135
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e5",
+        "mainCategory": false,
+        "name": {
+            "fr": "Protection",
+            "nl": "Bescherming",
+            "en": "Protection"
+        },
+        "oldMySqlId": 145
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e6",
+        "mainCategory": false,
+        "name": {
+            "fr": "Masque",
+            "nl": "Face Mask",
+            "en": "Face Mask"
+        },
+        "oldMySqlId": 194
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e7",
+        "mainCategory": false,
+        "name": {
+            "fr": "Vêtements de Travail",
+            "nl": "werkkledij",
+            "en": "Work Garments"
+        },
+        "oldMySqlId": 197
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74e8",
+        "mainCategory": false,
+        "name": {
+            "fr": "Vêtements Militaires Original",
+            "nl": "Originele Militaire Items",
+            "en": "Original Military Vintage"
+        },
+        "oldMySqlId": 201
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74ff",
+        "mainCategory": false,
+        "name": {
+            "fr": "Lunettes",
+            "nl": "Brillen",
+            "en": "Glasses / Goggles"
+        },
+        "oldMySqlId": 30
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c748f",
+        "mainCategory": false,
+        "name": {
+            "nl": "SPECS WITHOUT CATEGORY"
+        },
+        "oldMySqlId": -1,
+        "options": [
+            {
+                "id": "5a2ae6a46a0de608c87c74d0",
+                "name": {
+                    "fr": "Oui",
+                    "nl": "Ja",
+                    "en": "Yes"
+                },
+                "title": {
+                    "fr": "MAG",
+                    "nl": "MAG",
+                    "en": "Mag"
+                }
+            },
+            {
+                "id": "5a2ae6a46a0de608c87c74d1",
+                "name": {
+                    "fr": "Oui",
+                    "nl": "Ja",
+                    "en": "Yes"
+                },
+                "title": {
+                    "fr": "Battery",
+                    "nl": "Battery",
+                    "en": "Battery"
+                }
+            },
+            {
+                "id": "5a2ae6a46a0de608c87c74d2",
+                "name": {
+                    "fr": "Oui",
+                    "nl": "Ja",
+                    "en": "Yes"
+                },
+                "title": {
+                    "fr": "Gaz",
+                    "nl": "Gas",
+                    "en": "Gas"
+                }
+            },
+            {
+                "id": "5a2ae6a46a0de608c87c74d3",
+                "name": {
+                    "fr": "Oui",
+                    "nl": "Ja",
+                    "en": "Yes"
+                },
+                "title": {
+                    "fr": "Co2",
+                    "nl": "Co2",
+                    "en": "Co2"
+                }
+            }
+        ],
+        "specs": [
+            {
+                "id": "5a2ae6a46a0de608c87c7490",
+                "name": {
+                    "fr": "Couleur",
+                    "nl": "Kleur",
+                    "en": "Color"
+                },
+                "specOptions": [
+                    {
+                        "id": "5a2ae6a46a0de608c87c7491",
+                        "name": {
+                            "fr": "Noir",
+                            "nl": "Zwart",
+                            "en": "Black"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7492",
+                        "name": {
+                            "fr": "Gris",
+                            "nl": "Grijs",
+                            "en": "Grey"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7493",
+                        "name": {
+                            "fr": "Oliv Drab",
+                            "nl": "Oliv Drab",
+                            "en": "Oliv Drab"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7494",
+                        "name": {
+                            "fr": "ACU Digital",
+                            "nl": "ACU Digital",
+                            "en": "ACU Digital"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7495",
+                        "name": {
+                            "fr": "Woodland",
+                            "nl": "Woodland",
+                            "en": "Woodland"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7496",
+                        "name": {
+                            "fr": "Night Camo",
+                            "nl": "NIght Camo",
+                            "en": "Night Camo"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7497",
+                        "name": {
+                            "fr": "Desert Camo",
+                            "nl": "Desert Camo",
+                            "en": "Desert Camo"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7498",
+                        "name": {
+                            "fr": "Marpat",
+                            "nl": "Marpat",
+                            "en": "Marpat"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c7499",
+                        "name": {
+                            "fr": "Multi-cam",
+                            "nl": "Multi-cam",
+                            "en": "Multi-cam"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c749a",
+                        "name": {
+                            "fr": "Brun",
+                            "nl": "Bruin",
+                            "en": "Brown"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c749b",
+                        "name": {
+                            "fr": "Type 95 cz",
+                            "nl": "Type 95 cz",
+                            "en": "Type 95 cz"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c749c",
+                        "name": {
+                            "fr": "Urban",
+                            "nl": "Urban",
+                            "en": "Urban"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c749d",
+                        "name": {
+                            "fr": "Navy Digital",
+                            "nl": "Navy Digital",
+                            "en": "Navy Digital"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c749e",
+                        "name": {
+                            "fr": "Beige",
+                            "nl": "Beige",
+                            "en": "Sand"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c749f",
+                        "name": {
+                            "fr": "ABL",
+                            "nl": "ABL",
+                            "en": "ABL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a0",
+                        "name": {
+                            "fr": "ABL desert",
+                            "nl": "ABL desert",
+                            "en": "ABL desert"
+                        },
+                        "title": {}
+                    }
+                ]
+            },
+            {
+                "id": "5a2ae6a46a0de608c87c74a1",
+                "name": {
+                    "fr": "Tailles",
+                    "nl": "Maten",
+                    "en": "Sizes"
+                },
+                "specOptions": [
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a2",
+                        "name": {
+                            "fr": "XXS",
+                            "nl": "XXS",
+                            "en": "XXS"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a3",
+                        "name": {
+                            "fr": "XS",
+                            "nl": "XS",
+                            "en": "XS"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a4",
+                        "name": {
+                            "fr": "S",
+                            "nl": "S",
+                            "en": "S"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a5",
+                        "name": {
+                            "fr": "M",
+                            "nl": "M",
+                            "en": "M"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a6",
+                        "name": {
+                            "fr": "L",
+                            "nl": "L",
+                            "en": "L"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a7",
+                        "name": {
+                            "fr": "XL",
+                            "nl": "XL",
+                            "en": "XL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a8",
+                        "name": {
+                            "fr": "XXl",
+                            "nl": "XXL",
+                            "en": "XXL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74a9",
+                        "name": {
+                            "fr": "XXXL",
+                            "nl": "XXXL",
+                            "en": "XXXL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74aa",
+                        "name": {
+                            "fr": "4XL",
+                            "nl": "4XL",
+                            "en": "4XL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74ab",
+                        "name": {
+                            "fr": "5XL",
+                            "nl": "5XL",
+                            "en": "5XL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74ac",
+                        "name": {
+                            "fr": "6XL",
+                            "nl": "6XL",
+                            "en": "6XL"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74ad",
+                        "name": {
+                            "fr": "7XL",
+                            "nl": "7XL",
+                            "en": "7XL"
+                        },
+                        "title": {}
+                    }
+                ]
+            },
+            {
+                "id": "5a2ae6a46a0de608c87c74ae",
+                "name": {
+                    "fr": "Pointures",
+                    "nl": "Maten",
+                    "en": "Size"
+                },
+                "specOptions": [
+                    {
+                        "id": "5a2ae6a46a0de608c87c74af",
+                        "name": {
+                            "fr": "30",
+                            "nl": "30",
+                            "en": "30"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b0",
+                        "name": {
+                            "fr": "31",
+                            "nl": "31",
+                            "en": "31"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b1",
+                        "name": {
+                            "fr": "32",
+                            "nl": "32",
+                            "en": "32"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b2",
+                        "name": {
+                            "fr": "33",
+                            "nl": "33",
+                            "en": "33"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b3",
+                        "name": {
+                            "fr": "34",
+                            "nl": "34",
+                            "en": "34"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b4",
+                        "name": {
+                            "fr": "35",
+                            "nl": "35",
+                            "en": "35"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b5",
+                        "name": {
+                            "fr": "36",
+                            "nl": "36",
+                            "en": "36"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b6",
+                        "name": {
+                            "fr": "37",
+                            "nl": "37",
+                            "en": "37"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b7",
+                        "name": {
+                            "fr": "38",
+                            "nl": "38",
+                            "en": "38"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b8",
+                        "name": {
+                            "fr": "39",
+                            "nl": "39",
+                            "en": "39"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74b9",
+                        "name": {
+                            "fr": "40",
+                            "nl": "40",
+                            "en": "40"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74ba",
+                        "name": {
+                            "fr": "41",
+                            "nl": "41",
+                            "en": "41"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74bb",
+                        "name": {
+                            "fr": "42",
+                            "nl": "42",
+                            "en": "42"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74bc",
+                        "name": {
+                            "fr": "43",
+                            "nl": "43",
+                            "en": "43"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74bd",
+                        "name": {
+                            "fr": "44",
+                            "nl": "44",
+                            "en": "44"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74be",
+                        "name": {
+                            "fr": "45",
+                            "nl": "45",
+                            "en": "45"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74bf",
+                        "name": {
+                            "fr": "46",
+                            "nl": "46",
+                            "en": "46"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c0",
+                        "name": {
+                            "fr": "47",
+                            "nl": "47",
+                            "en": "47"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c1",
+                        "name": {
+                            "fr": "48",
+                            "nl": "48",
+                            "en": "48"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c2",
+                        "name": {
+                            "fr": "49",
+                            "nl": "49",
+                            "en": "49"
+                        },
+                        "title": {}
+                    }
+                ]
+            },
+            {
+                "id": "5a2ae6a46a0de608c87c74c3",
+                "name": {
+                    "fr": "Tailles",
+                    "nl": "Maten",
+                    "en": "Sizes"
+                },
+                "specOptions": [
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c4",
+                        "name": {
+                            "fr": "40",
+                            "nl": "40",
+                            "en": "40"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c5",
+                        "name": {
+                            "fr": "42",
+                            "nl": "42",
+                            "en": "42"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c6",
+                        "name": {
+                            "fr": "44",
+                            "nl": "44",
+                            "en": "44"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c7",
+                        "name": {
+                            "fr": "46",
+                            "nl": "46",
+                            "en": "46"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c8",
+                        "name": {
+                            "fr": "48",
+                            "nl": "48",
+                            "en": "48"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74c9",
+                        "name": {
+                            "fr": "50",
+                            "nl": "50",
+                            "en": "50"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74ca",
+                        "name": {
+                            "fr": "52",
+                            "nl": "52",
+                            "en": "52"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74cb",
+                        "name": {
+                            "fr": "54",
+                            "nl": "54",
+                            "en": "54"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74cc",
+                        "name": {
+                            "fr": "56",
+                            "nl": "56",
+                            "en": "56"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74cd",
+                        "name": {
+                            "fr": "58",
+                            "nl": "58",
+                            "en": "58"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74ce",
+                        "name": {
+                            "fr": "60",
+                            "nl": "60",
+                            "en": "60"
+                        },
+                        "title": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c74ef",
+        "mainCategory": false,
+        "name": {
+            "fr": "Chaussures",
+            "nl": "Schoenen"
+        },
+        "oldMySqlId": 17,
+        "specs": [
+            {
+                "id": "5a2ae6a46a0de608c87c74f0",
+                "name": {
+                    "fr": "Maat",
+                    "nl": "Maat Euro",
+                    "en": "Size Euro"
+                },
+                "specOptions": [
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f1",
+                        "name": {
+                            "fr": "36",
+                            "nl": "36"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f2",
+                        "name": {
+                            "fr": "37",
+                            "nl": "37"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f3",
+                        "name": {
+                            "fr": "38",
+                            "nl": "38"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f4",
+                        "name": {
+                            "fr": "39",
+                            "nl": "39"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f5",
+                        "name": {
+                            "fr": "40",
+                            "nl": "40"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f6",
+                        "name": {
+                            "fr": "41",
+                            "nl": "41"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f7",
+                        "name": {
+                            "fr": "42",
+                            "nl": "42"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f8",
+                        "name": {
+                            "fr": "43",
+                            "nl": "43"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74f9",
+                        "name": {
+                            "fr": "44",
+                            "nl": "44"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74fa",
+                        "name": {
+                            "fr": "45",
+                            "nl": "45"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74fb",
+                        "name": {
+                            "fr": "46",
+                            "nl": "46"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74fc",
+                        "name": {
+                            "fr": "47",
+                            "nl": "47"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74fd",
+                        "name": {
+                            "fr": "48",
+                            "nl": "48"
+                        },
+                        "title": {}
+                    },
+                    {
+                        "id": "5a2ae6a46a0de608c87c74fe",
+                        "name": {
+                            "fr": "49",
+                            "nl": "49"
+                        },
+                        "title": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7500",
+        "mainCategory": false,
+        "name": {
+            "fr": "Crèmes de camouflage",
+            "nl": "Camo crèmes",
+            "en": "Face Paint"
+        },
+        "oldMySqlId": 31
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7501",
+        "mainCategory": false,
+        "name": {
+            "fr": "Lightsticks",
+            "nl": "Lightsticks",
+            "en": "Lightsticks"
+        },
+        "oldMySqlId": 56
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7502",
+        "mainCategory": false,
+        "name": {
+            "fr": "Allumeurs / Zippo",
+            "nl": "Aansteker / Zippo",
+            "en": "Lighters"
+        },
+        "oldMySqlId": 81
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7503",
+        "mainCategory": false,
+        "name": {
+            "fr": "Karabijnhaak / Musketon",
+            "nl": "Karabijnhaak / Musketon",
+            "en": "Carabiners"
+        },
+        "oldMySqlId": 85
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7504",
+        "mainCategory": false,
+        "name": {
+            "fr": "Allumeur feu magnésium",
+            "nl": "Magnesium Vuurstenen",
+            "en": "Fire Sticks"
+        },
+        "oldMySqlId": 99
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7505",
+        "mainCategory": false,
+        "name": {
+            "fr": "Dog Tags",
+            "nl": "Dog Tags",
+            "en": "Dog Tags"
+        },
+        "oldMySqlId": 119
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7506",
+        "mainCategory": false,
+        "name": {
+            "fr": "Bracelet para",
+            "nl": "Armband Para",
+            "en": "Paracord Bracelet"
+        },
+        "oldMySqlId": 128
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7507",
+        "mainCategory": false,
+        "name": {
+            "fr": "Flask",
+            "nl": "Flask",
+            "en": "Flask"
+        },
+        "oldMySqlId": 132
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7508",
+        "mainCategory": false,
+        "name": {
+            "fr": "Montres",
+            "nl": "Horloges",
+            "en": "Watches"
+        },
+        "oldMySqlId": 138
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7509",
+        "mainCategory": false,
+        "name": {
+            "fr": "Scotch",
+            "nl": "Tape",
+            "en": "Tape"
+        },
+        "oldMySqlId": 142
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c750a",
+        "mainCategory": false,
+        "name": {
+            "fr": "Chauffe Main",
+            "nl": "Handwarmer",
+            "en": "Handwarmer"
+        },
+        "oldMySqlId": 143
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c750b",
+        "mainCategory": false,
+        "name": {
+            "fr": "Menottes",
+            "nl": "Handboeien",
+            "en": "Handcuffs"
+        },
+        "oldMySqlId": 144
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c750c",
+        "mainCategory": false,
+        "name": {
+            "fr": "Nettoyage arme",
+            "nl": "Wapenkuis",
+            "en": "Bore Cleaners"
+        },
+        "oldMySqlId": 146
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c750d",
+        "mainCategory": false,
+        "name": {
+            "fr": "Tendeur Sandow",
+            "nl": "Bungee",
+            "en": "Bungees"
+        },
+        "oldMySqlId": 162
+    },
+    {
+        "categories": [
+            "5a2ae6a46a0de608c87c74ff",
+            "5a2ae6a46a0de608c87c7500",
+            "5a2ae6a46a0de608c87c7501",
+            "5a2ae6a46a0de608c87c7502",
+            "5a2ae6a46a0de608c87c7503",
+            "5a2ae6a46a0de608c87c7504",
+            "5a2ae6a46a0de608c87c7505",
+            "5a2ae6a46a0de608c87c7506",
+            "5a2ae6a46a0de608c87c7507",
+            "5a2ae6a46a0de608c87c7508",
+            "5a2ae6a46a0de608c87c7509",
+            "5a2ae6a46a0de608c87c750a",
+            "5a2ae6a46a0de608c87c750b",
+            "5a2ae6a46a0de608c87c750c",
+            "5a2ae6a46a0de608c87c750d",
+            "5a2ae6a56a0de608c87c7551",
+            "5a2ae6a56a0de608c87c7550",
+            "5a2ae6a56a0de608c87c754b",
+            "5a2ae6a56a0de608c87c756e",
+            "5a2ae6a56a0de608c87c753c",
+            "5a2ae6a56a0de608c87c7556",
+            "5a2ae6a56a0de608c87c7548",
+            "5a2ae6a56a0de608c87c7528"
+        ],
+        "id": "5a2ae6a46a0de608c87c750e",
+        "mainCategory": true,
+        "name": {
+            "fr": "Accessoires",
+            "nl": "Accessoires",
+            "en": "Accessories"
+        },
+        "oldMySqlId": 20
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c750f",
+        "mainCategory": false,
+        "name": {
+            "fr": "Lit de camp",
+            "nl": "Veldbedden",
+            "en": "Camp Beds"
+        },
+        "oldMySqlId": 32
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7510",
+        "mainCategory": false,
+        "name": {
+            "fr": "Cuisine",
+            "nl": "Eetgerei",
+            "en": "Eating"
+        },
+        "oldMySqlId": 33
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7511",
+        "mainCategory": false,
+        "name": {
+            "fr": "Piquets pour tente",
+            "nl": "Tentharingen",
+            "en": "Tent Pegs"
+        },
+        "oldMySqlId": 35
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7512",
+        "mainCategory": false,
+        "name": {
+            "fr": "Matelas Conflable",
+            "nl": "Luchtmatrassen",
+            "en": "Air Beds"
+        },
+        "oldMySqlId": 38
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7513",
+        "mainCategory": false,
+        "name": {
+            "fr": "Sac d'hydration",
+            "nl": "Hydratatie rugzak",
+            "en": "Hydratation Carrier"
+        },
+        "oldMySqlId": 44
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7514",
+        "mainCategory": false,
+        "name": {
+            "fr": "Brûleurs / Cartouches de Gaz",
+            "nl": "Gasvuren / Vullingen / Esbit",
+            "en": "Cooking Stoves"
+        },
+        "oldMySqlId": 45
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7515",
+        "mainCategory": false,
+        "name": {
+            "fr": "Glacières",
+            "nl": "Frigobox",
+            "en": "Cooler"
+        },
+        "oldMySqlId": 47
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7516",
+        "mainCategory": false,
+        "name": {
+            "fr": "Tentes",
+            "nl": "Tenten",
+            "en": "Tents"
+        },
+        "oldMySqlId": 51
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7517",
+        "mainCategory": false,
+        "name": {
+            "fr": "Bousolles",
+            "nl": "Kompassen",
+            "en": "Compass"
+        },
+        "oldMySqlId": 60
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7518",
+        "mainCategory": false,
+        "name": {
+            "fr": "Sacs de Couchage",
+            "nl": "Slaapzakken",
+            "en": "Sleeping Bags"
+        },
+        "oldMySqlId": 67
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c751a",
+        "mainCategory": false,
+        "name": {
+            "fr": "Hamacs",
+            "nl": "Hangmat",
+            "en": "Hammock"
+        },
+        "oldMySqlId": 79
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c751c",
+        "mainCategory": false,
+        "name": {
+            "fr": "Sac étanche",
+            "nl": "Waterdichte zakken",
+            "en": "Waterproof Bags"
+        },
+        "oldMySqlId": 97
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c751d",
+        "mainCategory": false,
+        "name": {
+            "fr": "Chaise de camping",
+            "nl": "Campingstoelen",
+            "en": "Camping Chairs"
+        },
+        "oldMySqlId": 111
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c751e",
+        "mainCategory": false,
+        "name": {
+            "fr": "Autres",
+            "nl": "Andere",
+            "en": "Other"
+        },
+        "oldMySqlId": 141
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c751f",
+        "mainCategory": false,
+        "name": {
+            "fr": "Table",
+            "nl": "Tafel",
+            "en": "Tables"
+        },
+        "oldMySqlId": 157
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7520",
+        "mainCategory": false,
+        "name": {
+            "fr": "Bidon Pliable",
+            "nl": "Watercontainer",
+            "en": "Water Containers"
+        },
+        "oldMySqlId": 158
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7521",
+        "mainCategory": false,
+        "name": {
+            "fr": "Thermos®",
+            "nl": "Thermos®",
+            "en": "Thermos®"
+        },
+        "oldMySqlId": 161
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7522",
+        "mainCategory": false,
+        "name": {
+            "fr": "Gourde",
+            "nl": "Drinkbus",
+            "en": "Water Bottle"
+        },
+        "oldMySqlId": 175
+    },
+    {
+        "id": "5a2ae6a46a0de608c87c7524",
+        "mainCategory": false,
+        "name": {
+            "fr": "Sac / Bretelle de Fusil",
+            "nl": "Geweertas / Riem",
+            "en": "Gun Belt"
+        },
+        "oldMySqlId": 28
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7526",
+        "mainCategory": false,
+        "name": {
+            "fr": "Bottes",
+            "nl": "Botten",
+            "en": "Rubber Boots"
+        },
+        "oldMySqlId": 29
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7528",
+        "mainCategory": false,
+        "name": {
+            "fr": "Lampes / Lanternes",
+            "nl": "Lampen / Lantaarns",
+            "en": "Flashlights"
+        },
+        "oldMySqlId": 36
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7531",
+        "mainCategory": false,
+        "name": {
+            "fr": "Couvre-Chefs",
+            "nl": "Hoofddeksels",
+            "en": "Headwear"
+        },
+        "oldMySqlId": 40
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7536",
+        "mainCategory": false,
+        "name": {
+            "fr": "Brouette / Diables",
+            "nl": "Kruiwagen / Steekwagen",
+            "en": "carriage"
+        },
+        "oldMySqlId": 182
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7537",
+        "mainCategory": false,
+        "name": {
+            "fr": "Echelles Solide",
+            "nl": "Ladders Solide",
+            "en": "ladder"
+        },
+        "oldMySqlId": 183
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7538",
+        "mainCategory": false,
+        "name": {
+            "fr": "Produits de maintenance",
+            "nl": "Onderhouds- producten",
+            "en": "Maintenance"
+        },
+        "oldMySqlId": 189
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7539",
+        "mainCategory": false,
+        "name": {
+            "fr": "Brosses",
+            "nl": "Borstels / Stelen",
+            "en": "Brooms"
+        },
+        "oldMySqlId": 190
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c753a",
+        "mainCategory": false,
+        "name": {
+            "fr": "Essui",
+            "nl": "Dweilen",
+            "en": "Mop"
+        },
+        "oldMySqlId": 191
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c753c",
+        "mainCategory": false,
+        "name": {
+            "fr": "Drapeaux",
+            "nl": "Vlaggen",
+            "en": "Flags"
+        },
+        "oldMySqlId": 57
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c753d",
+        "mainCategory": false,
+        "name": {
+            "fr": "Cadenas",
+            "nl": "Hangsloten",
+            "en": "Lock"
+        },
+        "oldMySqlId": 58
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7540",
+        "mainCategory": false,
+        "name": {
+            "fr": "Peintures",
+            "nl": "Verf",
+            "en": "Paints"
+        },
+        "oldMySqlId": 59
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7542",
+        "mainCategory": false,
+        "name": {
+            "fr": "Malles",
+            "nl": "Koffers",
+            "en": "Cases"
+        },
+        "oldMySqlId": 63
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7543",
+        "mainCategory": false,
+        "name": {
+            "fr": "Cuisine",
+            "nl": "Keuken",
+            "en": "Kitchen"
+        },
+        "oldMySqlId": 64
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7548",
+        "mainCategory": false,
+        "name": {
+            "fr": "Couteaux / Multi-Tool",
+            "nl": "Messen / Multi-Tool",
+            "en": "Knives"
+        },
+        "oldMySqlId": 65
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7549",
+        "mainCategory": false,
+        "name": {
+            "fr": "Cordes",
+            "nl": "Touwen",
+            "en": "Ropes"
+        },
+        "oldMySqlId": 69
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c754a",
+        "mainCategory": false,
+        "name": {
+            "fr": "Jerrycans",
+            "nl": "Jerrycans",
+            "en": "Jerrycans"
+        },
+        "oldMySqlId": 70
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c754b",
+        "mainCategory": false,
+        "name": {
+            "fr": "Ecussons",
+            "nl": "Patches",
+            "en": "Patches"
+        },
+        "oldMySqlId": 72
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c754c",
+        "mainCategory": false,
+        "name": {
+            "fr": "Casques",
+            "nl": "Helmen",
+            "en": "Helmets"
+        },
+        "oldMySqlId": 74
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c754e",
+        "mainCategory": false,
+        "name": {
+            "fr": "Sac à dos",
+            "nl": "Rugzakken",
+            "en": "Backpacks"
+        },
+        "oldMySqlId": 75
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c754f",
+        "mainCategory": false,
+        "name": {
+            "fr": "Bâches",
+            "nl": "Afdekzeilen",
+            "en": "Tarpaulins"
+        },
+        "oldMySqlId": 84
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7550",
+        "mainCategory": false,
+        "name": {
+            "fr": "Masque à gaz",
+            "nl": "Gasmaskers",
+            "en": "Gasmasks"
+        },
+        "oldMySqlId": 94
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7551",
+        "mainCategory": false,
+        "name": {
+            "fr": "Baseball bat",
+            "nl": "Baseball bat",
+            "en": "Baseball bat"
+        },
+        "oldMySqlId": 103
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7552",
+        "mainCategory": false,
+        "name": {
+            "fr": "Boïte aux lettres",
+            "nl": "Brievenbus / U.S. Mailbox",
+            "en": "US Mailbox"
+        },
+        "oldMySqlId": 104
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7554",
+        "mainCategory": false,
+        "name": {
+            "fr": "Filet de camouflage",
+            "nl": "Camouflagenetten",
+            "en": "Camouflage nets"
+        },
+        "oldMySqlId": 112
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7555",
+        "mainCategory": false,
+        "name": {
+            "fr": "Accessoires de chasse",
+            "nl": "Jacht  Accessoires",
+            "en": "Hunting Accessories"
+        },
+        "oldMySqlId": 125
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7556",
+        "mainCategory": false,
+        "name": {
+            "fr": "Machete",
+            "nl": "Machetti",
+            "en": "Machetti"
+        },
+        "oldMySqlId": 127
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7557",
+        "mainCategory": false,
+        "name": {
+            "fr": "BB's",
+            "nl": "BB's",
+            "en": "BB's"
+        },
+        "oldMySqlId": 130
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7558",
+        "mainCategory": false,
+        "name": {
+            "fr": "Protection",
+            "nl": "Protection",
+            "en": "Protection"
+        },
+        "oldMySqlId": 163
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7559",
+        "mainCategory": false,
+        "name": {
+            "fr": "AEG",
+            "nl": "AEG",
+            "en": "AEG"
+        },
+        "oldMySqlId": 164
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c755a",
+        "mainCategory": false,
+        "name": {
+            "fr": "Sniper",
+            "nl": "Sniper",
+            "en": "Sniper"
+        },
+        "oldMySqlId": 165
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c755b",
+        "mainCategory": false,
+        "name": {
+            "fr": "Shotgun",
+            "nl": "Shotgun",
+            "en": "Shotgun"
+        },
+        "oldMySqlId": 166
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c755c",
+        "mainCategory": false,
+        "name": {
+            "fr": "Pistolet",
+            "nl": "Handgun",
+            "en": "Handgun"
+        },
+        "oldMySqlId": 167
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c755d",
+        "mainCategory": false,
+        "name": {
+            "fr": "Entretien",
+            "nl": "Onderhoud",
+            "en": "Maintenance"
+        },
+        "oldMySqlId": 168
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c755e",
+        "mainCategory": false,
+        "name": {
+            "fr": "Grenade Launcher / Grenade",
+            "nl": "Grenade Launcher / Grenade",
+            "en": "Grenade Launcher / Grenade"
+        },
+        "oldMySqlId": 169
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c755f",
+        "mainCategory": false,
+        "name": {
+            "fr": "Gaz / CO2",
+            "nl": "Gas / CO2",
+            "en": "Gas / CO2"
+        },
+        "oldMySqlId": 171
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7560",
+        "mainCategory": false,
+        "name": {
+            "fr": "Batterie/ Chargeur",
+            "nl": "Batterijen/ Oplader",
+            "en": "Batteries/ Chargers"
+        },
+        "oldMySqlId": 172
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7561",
+        "mainCategory": false,
+        "name": {
+            "fr": "Pistolet à blanc",
+            "nl": "Alarmpistolen",
+            "en": "Blanc Pistols"
+        },
+        "oldMySqlId": 177
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7562",
+        "mainCategory": false,
+        "name": {
+            "fr": "Armes à Air CO2 Metal BBs",
+            "nl": "Airguns CO2 Metal BBs",
+            "en": "Airguns CO2 Metal BB's"
+        },
+        "oldMySqlId": 178
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7563",
+        "mainCategory": false,
+        "name": {
+            "fr": "Armes à Air CO2",
+            "nl": "Airguns CO2 Loodjes",
+            "en": "Pellet Guns CO2 powered"
+        },
+        "oldMySqlId": 179
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7564",
+        "mainCategory": false,
+        "name": {
+            "fr": "Armes à Air",
+            "nl": "Airguns Loodjes",
+            "en": "Pellet Guns"
+        },
+        "oldMySqlId": 180
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7565",
+        "mainCategory": false,
+        "name": {
+            "fr": "Réplique Decoration",
+            "nl": "Replica non firing",
+            "en": "Replica non Firing"
+        },
+        "oldMySqlId": 192
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7566",
+        "mainCategory": false,
+        "name": {
+            "fr": "Scopes",
+            "nl": "Scopes",
+            "en": "Scopes"
+        },
+        "oldMySqlId": 195
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7567",
+        "mainCategory": false,
+        "name": {
+            "fr": "Red Dot",
+            "nl": "Red Dot",
+            "en": "Red Dot"
+        },
+        "oldMySqlId": 196
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7568",
+        "mainCategory": false,
+        "name": {
+            "fr": "Lance pierre",
+            "nl": "Katapult",
+            "en": "Slingshot"
+        },
+        "oldMySqlId": 200
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7569",
+        "mainCategory": false,
+        "name": {
+            "fr": "Gunbags / Cases",
+            "nl": "Gunbags / Cases",
+            "en": "Gun Bags / Cases"
+        },
+        "oldMySqlId": 203
+    },
+    {
+        "categories": [
+            "5a2ae6a56a0de608c87c7557",
+            "5a2ae6a56a0de608c87c7558",
+            "5a2ae6a56a0de608c87c7559",
+            "5a2ae6a56a0de608c87c755a",
+            "5a2ae6a56a0de608c87c755b",
+            "5a2ae6a56a0de608c87c755c",
+            "5a2ae6a56a0de608c87c755d",
+            "5a2ae6a56a0de608c87c755e",
+            "5a2ae6a56a0de608c87c755f",
+            "5a2ae6a56a0de608c87c7560",
+            "5a2ae6a56a0de608c87c7561",
+            "5a2ae6a56a0de608c87c7562",
+            "5a2ae6a56a0de608c87c7563",
+            "5a2ae6a56a0de608c87c7564",
+            "5a2ae6a56a0de608c87c7565",
+            "5a2ae6a56a0de608c87c7566",
+            "5a2ae6a56a0de608c87c7567",
+            "5a2ae6a56a0de608c87c7568",
+            "5a2ae6a56a0de608c87c7569",
+            "5a2ae6a46a0de608c87c7524",
+            "5a2ae6a56a0de608c87c7555"
+        ],
+        "id": "5a2ae6a56a0de608c87c756a",
+        "mainCategory": true,
+        "name": {
+            "fr": "Airsoft / Airguns",
+            "nl": "Airsoft / Airguns",
+            "en": "Airsoft / Airguns"
+        },
+        "oldMySqlId": 129
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c756d",
+        "mainCategory": false,
+        "name": {
+            "fr": "Couvertures",
+            "nl": "Dekens",
+            "en": "Blankets"
+        },
+        "oldMySqlId": 148
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c756e",
+        "mainCategory": false,
+        "name": {
+            "fr": "Walkie-Talkie",
+            "nl": "Walkie-Talkie",
+            "en": "Walkies"
+        },
+        "oldMySqlId": 160
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c756f",
+        "mainCategory": false,
+        "name": {
+            "fr": "Holster",
+            "nl": "Holster",
+            "en": "Holster"
+        },
+        "oldMySqlId": 185
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7570",
+        "mainCategory": false,
+        "name": {
+            "fr": "Securité",
+            "nl": "Security",
+            "en": "Security"
+        },
+        "oldMySqlId": 186
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7571",
+        "mainCategory": false,
+        "name": {
+            "fr": "Ammopouch",
+            "nl": "Ammopouch",
+            "en": "Ammopouch"
+        },
+        "oldMySqlId": 187
+    },
+    {
+        "categories": [
+            "5a2ae6a56a0de608c87c756f",
+            "5a2ae6a56a0de608c87c7570",
+            "5a2ae6a56a0de608c87c7571",
+            "5a2ae6a46a0de608c87c7524"
+        ],
+        "id": "5a2ae6a56a0de608c87c7574",
+        "mainCategory": true,
+        "name": {
+            "fr": "Equipements",
+            "nl": "Uitrustingen",
+            "en": "Equipment"
+        },
+        "oldMySqlId": 184
+    },
+    {
+        "id": "5a2ae6a56a0de608c87c7575",
+        "mainCategory": false,
+        "name": {
+            "fr": "Plaque Sable",
+            "nl": "Landingsplaat",
+            "en": "Sand Plates"
+        },
+        "oldMySqlId": 202
+    },
+    {
+        "categories": [
+            "5a2ae6a56a0de608c87c7536",
+            "5a2ae6a56a0de608c87c7537",
+            "5a2ae6a56a0de608c87c7538",
+            "5a2ae6a56a0de608c87c7539",
+            "5a2ae6a56a0de608c87c753a",
+            "5a2ae6a56a0de608c87c7556",
+            "5a2ae6a56a0de608c87c7548",
+            "5a2ae6a56a0de608c87c7542",
+            "5a2ae6a56a0de608c87c7575",
+            "5a2ae6a56a0de608c87c754a",
+            "5a2ae6a56a0de608c87c7549",
+            "5a2ae6a56a0de608c87c7540",
+            "5a2ae6a56a0de608c87c7552",
+            "5a2ae6a56a0de608c87c753d"
+        ],
+        "id": "5a2ae6a56a0de608c87c753b",
+        "mainCategory": true,
+        "name": {
+            "fr": "Outillage",
+            "nl": "Gereedschappen",
+            "en": "Tools"
+        },
+        "oldMySqlId": 53
+    },
+    {
+        "categories": [
+            "5a2ae6a46a0de608c87c74d4",
+            "5a2ae6a46a0de608c87c74d5",
+            "5a2ae6a46a0de608c87c74d6",
+            "5a2ae6a46a0de608c87c74d7",
+            "5a2ae6a46a0de608c87c74d8",
+            "5a2ae6a46a0de608c87c74d9",
+            "5a2ae6a46a0de608c87c74da",
+            "5a2ae6a46a0de608c87c74db",
+            "5a2ae6a46a0de608c87c74dc",
+            "5a2ae6a46a0de608c87c74dd",
+            "5a2ae6a46a0de608c87c74de",
+            "5a2ae6a46a0de608c87c74df",
+            "5a2ae6a46a0de608c87c74e0",
+            "5a2ae6a46a0de608c87c74e1",
+            "5a2ae6a46a0de608c87c74e2",
+            "5a2ae6a46a0de608c87c74e4",
+            "5a2ae6a46a0de608c87c74e5",
+            "5a2ae6a46a0de608c87c74e6",
+            "5a2ae6a46a0de608c87c74e7",
+            "5a2ae6a46a0de608c87c74e8",
+            "5a2ae6a46a0de608c87c74ef",
+            "5a2ae6a56a0de608c87c7531",
+            "5a2ae6a56a0de608c87c754c",
+            "5a2ae6a56a0de608c87c7526"
+        ],
+        "id": "5a2ae6a46a0de608c87c74e9",
+        "mainCategory": true,
+        "name": {
+            "fr": "Vetements",
+            "nl": "Kledij",
+            "en": "Clothing"
+        },
+        "oldMySqlId": 16
+    },
+    {
+        "categories": [
+            "5a2ae6a46a0de608c87c750f",
+            "5a2ae6a46a0de608c87c7510",
+            "5a2ae6a46a0de608c87c7511",
+            "5a2ae6a46a0de608c87c7512",
+            "5a2ae6a46a0de608c87c7513",
+            "5a2ae6a46a0de608c87c7514",
+            "5a2ae6a46a0de608c87c7515",
+            "5a2ae6a46a0de608c87c7516",
+            "5a2ae6a46a0de608c87c7517",
+            "5a2ae6a46a0de608c87c7518",
+            "5a2ae6a46a0de608c87c751a",
+            "5a2ae6a46a0de608c87c751c",
+            "5a2ae6a46a0de608c87c751d",
+            "5a2ae6a46a0de608c87c751e",
+            "5a2ae6a46a0de608c87c751f",
+            "5a2ae6a46a0de608c87c7520",
+            "5a2ae6a46a0de608c87c7521",
+            "5a2ae6a46a0de608c87c7522",
+            "5a2ae6a56a0de608c87c7528",
+            "5a2ae6a56a0de608c87c7542",
+            "5a2ae6a56a0de608c87c754a",
+            "5a2ae6a56a0de608c87c7549",
+            "5a2ae6a56a0de608c87c7543",
+            "5a2ae6a56a0de608c87c756d",
+            "5a2ae6a56a0de608c87c7554",
+            "5a2ae6a56a0de608c87c754f",
+            "5a2ae6a56a0de608c87c754e"
+        ],
+        "id": "5a2ae6a46a0de608c87c7523",
+        "mainCategory": true,
+        "name": {
+            "fr": "Camping / Survival",
+            "nl": "Camping / Survival",
+            "en": "Camping / Survival"
+        },
+        "oldMySqlId": 25
+    }
+]
