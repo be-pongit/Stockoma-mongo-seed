@@ -39,9 +39,18 @@ MongoClient.connect(program.server, function(err, client) {
   });
   console.log('Wrote categories');
 
-  // PRODUCTS
+    // PRODUCTS
   products.forEach(prod => {
     setId(prod);
+
+    const views = {
+      productId: prod._id,
+      views: prod.views
+    };
+    db.collection('product-views').insert(views);
+
+    delete prod.views;
+
     db.collection('products').insert(prod);
   });
   console.log('Wrote products');
