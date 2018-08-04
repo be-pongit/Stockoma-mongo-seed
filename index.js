@@ -37,6 +37,7 @@ MongoClient.connect(program.server, function(err, client) {
 
     if (cat.name.nl === 'Schoenen') {
       cat.specs[0].type = 'SHOES-EUR';
+      cat.specs[0].name.fr = 'Taille Euro';
     }
 
     db.collection('categories').insert(cat);
