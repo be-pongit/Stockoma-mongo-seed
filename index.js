@@ -35,11 +35,15 @@ MongoClient.connect(program.server, function(err, client) {
       });
     }
 
+    if (cat.name.nl === 'Schoenen') {
+      cat.specs[0].type = 'SHOES-EUR';
+    }
+
     db.collection('categories').insert(cat);
   });
   console.log('Wrote categories');
 
-    // PRODUCTS
+  // PRODUCTS
   products.forEach(prod => {
     setId(prod);
 
