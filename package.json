@@ -4,7 +4,8 @@
   "description": "Create mongo db docker instance and fill with some data",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js --server=mongodb://pongit:27010 --collection=stockoma"
+    "test": "node index.js --server=mongodb://pongit:27010 --collection=stockoma",
+    "steven": "node index.js --server=mongodb://192.168.0.206:27017 --collection=stockoma"
   },
   "repository": {
     "type": "git",
