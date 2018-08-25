@@ -40,6 +40,14 @@ MongoClient.connect(program.server, function(err, client) {
       cat.specs[0].name.fr = 'Taille Euro';
     }
 
+    if (cat.specs) {
+      cat.specs.forEach(spec => {
+        spec.specOptions.forEach(specOption => {
+          delete specOption.title;
+        })
+      });
+    }
+
     checkMainCategory(cat);
 
     db.collection('categories').insert(cat);
