@@ -40,6 +40,8 @@ MongoClient.connect(program.server, function(err, client) {
       cat.specs[0].name.fr = 'Taille Euro';
     }
 
+    checkMainCategory(cat);
+
     db.collection('categories').insert(cat);
   });
   console.log('Wrote categories');
@@ -67,3 +69,35 @@ MongoClient.connect(program.server, function(err, client) {
   console.log('Finishing up');
   client.close();
 });
+
+
+function checkMainCategory(cat) {
+  switch (cat.oldMySqlId) {
+  case 20:
+    cat.mainCategory = 'ACCESORIES';
+    cat.mainCategoryImg = 'accesories.jpg';
+    break;
+  case 129:
+    cat.mainCategory = 'AIRSOFT';
+    cat.mainCategoryImg = 'airsoft.jpg';
+    break;
+  case 25:
+    cat.mainCategory = 'CAMPING';
+    cat.mainCategoryImg = 'camping.jpg';
+    break;
+  case 53:
+    cat.mainCategory = 'TOOLS';
+    cat.mainCategoryImg = 'gereedschapen.jpg';
+    break;
+  case 16:
+    cat.mainCategory = 'CLOTHING';
+    cat.mainCategoryImg = 'kledij.jpg';
+    break;
+  case 184:
+    cat.mainCategory = 'EQUIPMENT';
+    cat.mainCategoryImg = 'equipment.jpg';
+    break;
+  }
+
+  delete cat.oldMySqlId;
+}
