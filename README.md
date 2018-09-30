@@ -36,3 +36,15 @@ npm run steven
 # Vagrant box
 npm run vagrant
 ```
+
+Images
+======
+
+Use `AzCopy`:  
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy
+
+Usage  
+```
+cd "C:\Program Files (x86)\Microsoft SDKs\Azure\AzCopy"
+AzCopy.exe /Source:.\images /Dest:https://stockomaimages.blob.core.windows.net/product-images /DestKey:secret-key /S
+```
