@@ -5,6 +5,7 @@ var ObjectID = require('mongodb').ObjectID;
 program
   .option('-s, --server <connection>', 'mongoDB connection string (ex: mongodb://nassimodo:27017)')
   .option('-c, --collection <collection>', 'mongoDB collection')
+  .option('--ssl', 'Use ssl')
   .parse(process.argv);
 
 
@@ -17,7 +18,14 @@ function setId(obj) {
   delete obj.id;
 }
 
-MongoClient.connect(program.server, function(err, client) {
+// ATTN: Make sure '=' are replaced with '%3D' in the password
+const mongoConnectionString = program.server + (program.ssl ? '/?ssl=true&replicaSet=globaldb' : '');
+MongoClient.connect(mongoConnectionString, function(err, client) {
+  if (err) {
+    console.log('Could not connect to server');
+    console.log(err);
+    return;
+  }
   console.log('Connected successfully to server');
 
   const db = client.db(program.collection);
