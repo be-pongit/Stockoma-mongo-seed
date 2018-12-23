@@ -52,7 +52,7 @@ MongoClient.connect(mongoConnectionString, function(err, client) {
       cat.specs.forEach(spec => {
         spec.specOptions.forEach(specOption => {
           delete specOption.title;
-        })
+        });
       });
     }
 

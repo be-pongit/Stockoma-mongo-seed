@@ -14,7 +14,8 @@ npm install
 node index.js --server=mongodb://pongit:27010 --collection=stockoma
 ```
 
-For subsequent db fills, drop the collection first as it will just append data.
+With `mongodb://pongit:27010` being the credentials for wherever the mongo is running.  
+For subsequent db fills, drop the collection first as it will just append data.  
 
 ## Fill Cosmos db with
 
